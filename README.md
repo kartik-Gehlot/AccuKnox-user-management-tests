@@ -33,3 +33,11 @@ playwright install
 
 ## Run the Test Cases
 pytest -v
+
+Test Scenarios Automated
+Login and Navigate to Admin Module
+Add a New User
+Search the Newly Created User
+Edit User Details
+Validate Updated Details
+Delete the User
